@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "Mona Lisa",
+  "base_artist": "Porter Robinson",
+  "createdAt": "2025-12-31T13:35:14.878867Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mona Lisa",
+      "artist": "Conway Twitty",
+      "has_synced": true,
+      "path": "select/01_Mona_Lisa_Conway_Twitty.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mona Lisa (Single Version)",
+      "artist": "Conway Twitty",
+      "has_synced": true,
+      "path": "select/02_Mona_Lisa_(Single_Version)_Conway_Twitty.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mona Lisa",
+      "artist": "Wyclef Jean feat. Refugee Allstars",
+      "has_synced": true,
+      "path": "select/03_Mona_Lisa_Wyclef_Jean_feat._Refugee_Allstars.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mona Lisa",
+      "artist": "Wyclef Jean",
+      "has_synced": true,
+      "path": "select/04_Mona_Lisa_Wyclef_Jean.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mona Lisa (feat. Kendrick Lamar)",
+      "artist": "lil wayne",
+      "has_synced": true,
+      "path": "select/05_Mona_Lisa_(feat._Kendrick_Lamar)_lil_wayne.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mona Lisa Overdrive",
+      "artist": "Lil Ugly Mane",
+      "has_synced": true,
+      "path": "select/06_Mona_Lisa_Overdrive_Lil_Ugly_Mane.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Just We Two (Mona Lisa)",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/07_Just_We_Two_(Mona_Lisa)_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mona Lisa Smiles",
+      "artist": "Jane Child",
+      "has_synced": false,
+      "path": "select/08_Mona_Lisa_Smiles_Jane_Child.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mona Lisa",
+      "artist": "Atlas Sound",
+      "has_synced": true,
+      "path": "select/09_Mona_Lisa_Atlas_Sound.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mona Lisa",
+      "artist": "Big Sean",
+      "has_synced": true,
+      "path": "select/10_Mona_Lisa_Big_Sean.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Girls (feat. Mona Lisa)",
+      "artist": "Cam'ron",
+      "has_synced": true,
+      "path": "select/11_Girls_(feat._Mona_Lisa)_Cam'ron.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Ballad of Mona Lisa",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Hannah Gill",
+      "has_synced": false,
+      "path": "select/12_The_Ballad_of_Mona_Lisa_Scott_Bradlee's_Postmodern_Jukebox_feat._Hannah_Gill.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mona Lisa",
+      "artist": "The Summer Set",
+      "has_synced": false,
+      "path": "select/13_Mona_Lisa_The_Summer_Set.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mona Lisa",
+      "artist": "Slick Rick",
+      "has_synced": true,
+      "path": "select/14_Mona_Lisa_Slick_Rick.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mona Lisa",
+      "artist": "Toro y Moi",
+      "has_synced": false,
+      "path": "select/15_Mona_Lisa_Toro_y_Moi.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "MONA LISA",
+      "artist": "Tommy Cash feat. Rick Owens",
+      "has_synced": false,
+      "path": "select/16_MONA_LISA_Tommy_Cash_feat._Rick_Owens.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Mona Lisa (feat. Rick Owens)",
+      "artist": "Tommy Cash",
+      "has_synced": false,
+      "path": "select/17_Mona_Lisa_(feat._Rick_Owens)_Tommy_Cash.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Mona Lisa",
+      "artist": "James Brown",
+      "has_synced": true,
+      "path": "select/18_Mona_Lisa_James_Brown.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Mona Lisa's Smile",
+      "artist": "Molly Nilsson",
+      "has_synced": false,
+      "path": "select/19_Mona_Lisa's_Smile_Molly_Nilsson.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Mona Bone Jakon",
+      "artist": "Cat Stevens",
+      "has_synced": true,
+      "path": "select/20_Mona_Bone_Jakon_Cat_Stevens.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Mona",
+      "artist": "Wall of Voodoo",
+      "has_synced": true,
+      "path": "select/21_Mona_Wall_of_Voodoo.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Mona",
+      "artist": "Federico Aubele",
+      "has_synced": false,
+      "path": "select/22_Mona_Federico_Aubele.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "One Hand Mona",
+      "artist": "Gustav",
+      "has_synced": true,
+      "path": "select/23_One_Hand_Mona_Gustav.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mona Lisa",
+      "artist": "Porter Robinson, Frost Children",
+      "has_synced": false,
+      "path": "select/pl_01_Mona_Lisa_Porter_Robinson,_Frost_Children.txt"
+    }
+  ]
+}
